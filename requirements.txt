@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas<2.2
+numpy<2
+openpyxl
+python-dotenv
+pydantic-settings
+google-genai
+pytest
+httpx
